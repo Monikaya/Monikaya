@@ -1,5 +1,5 @@
 hy i'm @Aquazarine (she/her)
 <br>
-Somewhat confident in Python, possibly looking to learn C# or JS
+Somewhat confident in Python & JS, possibly looking to learn C# or Kotlin
 <br>
-you can try to reach me from discord or tele, the links can be found on my site https://aquazarine.gay
+contact info on https://aquazarine.gay if you want
